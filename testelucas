@@ -3,4 +3,10 @@
 http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
 #EXTINF:-1 tvg-id="CINEMAX FHD"  tvg-logo="http://images.mi.tv/channels/br_cartoon_m.png" group-title="CANAIS DE AÇÃO" , CINEMAX
 http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+#EXTINF:-1 tvg-id="DISCOVERY"  tvg-logo="http://images.mi.tv/channels/br_cartoon_m.pg" group-title="CANAIS DE AÇÃO" , DISCOVERY CHANNEL
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+
+
+
+
 
