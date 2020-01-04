@@ -3,6 +3,8 @@
 http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
 http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
 
 
 
