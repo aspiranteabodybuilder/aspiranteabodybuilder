@@ -17,6 +17,8 @@ http://us11.kgolf.store/SD_WARNER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40
 http://us12.server.kkvictor.xyz/HD_DISCOVERY_SCIENCE/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1 HD
 http://ge2.server.kudaalpha.live/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="007 -  Na Mira dos Assassinos (1985)" tvg-logo="https://i.ibb.co/fqNV8Fj/007-na-mira-dos-assassinos.jpg" group-title="Filme: Aventura",007 -  Na Mira dos Assassinos (1985)
+http://lb.kstream.org/vod/filme/7100.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 
 
 
