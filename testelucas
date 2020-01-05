@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CARTOON NETWORK"  tvg-logo="http://images.mi.tv/channels/br_cartoon_m.png" group-title="CANAIS INFANTIL" , CARTOON NETWORK
 http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="Woohoo HD" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo HD
+http://lb.kstream.org/aovivo/HD_WOOHOO/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png" group-title="Infantil",Zoomoo HD
+http://lb.kstream.org/aovivo/HD_ZOOMOO/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="i-Sat" tvg-logo="https://i.ibb.co/X74fJNy/isat.png" group-title="Filme e Serie",i-Sat
+http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
 http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox FHD
