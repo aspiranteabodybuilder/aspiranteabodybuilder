@@ -19,6 +19,38 @@ http://us12.server.kkvictor.xyz/HD_DISCOVERY_SCIENCE/video.m3u8?token=96ee9ffe69
 http://ge2.server.kudaalpha.live/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="video" tvg-id="007 -  Na Mira dos Assassinos (1985)" tvg-logo="https://i.ibb.co/fqNV8Fj/007-na-mira-dos-assassinos.jpg" group-title="Filme: Aventura",007 -  Na Mira dos Assassinos (1985)
 http://lb.kstream.org/vod/filme/7100.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E01" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E01
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E01.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E02" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E02
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E02.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E03" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E03
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E03.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E04" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E04
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E04.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E05" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E05
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E05.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E06" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E06
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E06.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E07" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E07
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E07.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E08" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E08
+http://lb.kstream.org/vod/serie/The_witcher/the_witcher_S01E08.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E09" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E09
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E01.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E10" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E10
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E02.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E11" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E11
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E03.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E12" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E12
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E04.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E13" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E13
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E05.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E14" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E14
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E06.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E15" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E15
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E07.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="The Witcher T01E16" tvg-logo="https://i.ibb.co/VHPxmmt/The-witcher-S01.jpg" group-title="Serie: The Witcher",The Witcher T01E16
+http://lb.kstream.org/vod/serie/The_witcher/dub_the_witcher_S01E08.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 
 
 
