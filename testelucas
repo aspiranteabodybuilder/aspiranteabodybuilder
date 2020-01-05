@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CARTOON NETWORK"  tvg-logo="http://images.mi.tv/channels/br_cartoon_m.png" group-title="CANAIS INFANTIL" , CARTOON NETWORK
-http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
-http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
-http://us13.server.kalfa.live/FHD_HBO_2/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://us13.server.kalfa.live/FHD_HBO_2/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
-http://pl.server.kkfoxtrot.xyz/HD_TC_PIPOCA/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://pl.server.kkfoxtrot.xyz/HD_TC_PIPOCA/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT
-http://us.server.kkilo.live/HD_TNT_SERIES/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://us.server.kkilo.live/HD_TNT_SERIES/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
-http://us11.kgolf.store/SD_WARNER/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://us11.kgolf.store/SD_WARNER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Discovery Science HD" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD
-http://us12.server.kkvictor.xyz/HD_DISCOVERY_SCIENCE/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://us12.server.kkvictor.xyz/HD_DISCOVERY_SCIENCE/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1 HD
-http://ge2.server.kudaalpha.live/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=66a5c19d61bec9ef6bdc8bff74677d5e
+http://ge2.server.kudaalpha.live/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 
 
 
