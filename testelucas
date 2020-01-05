@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CARTOON NETWORK"  tvg-logo="http://images.mi.tv/channels/br_cartoon_m.png" group-title="CANAIS INFANTIL" , CARTOON NETWORK
 http://us11.koscar.live/HD_CARTOON_NETWORK/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
+http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox FHD
+http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="stream" tvg-id="Fox HD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox HD
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
 http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="stream" tvg-id="History HD [Alter]" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History HD [Alter]
