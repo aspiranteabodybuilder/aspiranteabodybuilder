@@ -26001,4 +26001,19 @@ http://lb.kstream.org/vod/serie/You/you_S02E08_out.mp4/video.m3u8?token=96ee9ffe
 http://lb.kstream.org/vod/serie/You/you_S02E09_out.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
 #EXTINF:-1 type="video" tvg-id="You T02E20" tvg-logo="https://i.ibb.co/MGMhncM/You-S02-poster.jpg" group-title="Serie: You",You T02E20
 http://lb.kstream.org/vod/serie/You/you_S02E10_out.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Karatê Kid - A Hora da Verdade" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Karate_kid_P%C3%B4ster.jpg" group-title="Filme: Drama",Karatê Kid - A Hora da Verdade
+http://lb.kstream.org/vod/filme/8108.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Karatê Kid 2 - A Hora da Verdade Continua" tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/61/40/20208886.jpg" group-title="Filme: Drama",Karatê Kid 2 - A Hora da Verdade Continua
+http://lb.kstream.org/vod/filme/8099.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Karatê Kid 3 - O Desafio Final" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/92/61/42/20208888.jpg" group-title="Filme: Drama",Karatê Kid 3 - O Desafio Final
+http://lb.kstream.org/vod/filme/8104.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Karatê Kid 4 - A Nova Aventura" tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/90/82/19981090.jpg" group-title="Filme: Ação",Karatê Kid 4 - A Nova Aventura
+http://lb.kstream.org/vod/filme/8237.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Khumba" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Khumba_poster.jpg" group-title="Filme: Aventura",Khumba
+http://lb.kstream.org/vod/filme/5884.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Kick-Ass 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Kick-Ass_2_International_Poster.jpg" group-title="Filme: Ação",Kick-Ass 2
+http://lb.kstream.org/vod/filme/7874.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+#EXTINF:-1 type="video" tvg-id="Kick-Ass Quebrando Tudo" tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/90/51/19980361.jpg" group-title="Filme: Ação",Kick-Ass Quebrando Tudo
+http://lb.kstream.org/vod/filme/7875.mp4/video.m3u8?token=96ee9ffe69dcbaaa25a466e698c40193
+
 
